@@ -1,2 +1,2 @@
 # FOAR705POC
-My proof of concept (coming soon)
+My pico presentation and proof of concept (coming soon)
